@@ -6,7 +6,7 @@ resource_avail_flag=true
 log_file="/tmp/dashdb_usage.log"
 #mkdir ${WORKSPACE}/report
 #index_page="${WORKSPACE}/report/index.html"
-index_page="/Users/Hao.Qiu@ibm.com/ops/index.html"
+index_page="/tmp/index.html"
 rm $index_page
 touch $index_page
 
